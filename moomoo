@@ -1,62 +1,71 @@
-api.futunn.com
-conf.futunn.com
-update1.futunn.com
-softwaredownload.futunn.com
-passport.futunn.com
-static.futunn.com
-newsfile.futunn.com
-news.futunn.com
-dedog-report.futunn.com
-sdauth.futunn.com
-avatar.futunn.com
-collect.futunn.com
-q.futunn.com
-editor.futunn.com
-emoticon.futunn.com
-cdnquote.futunn.com
-stock-resource.futunn.com
-stock-reward.futunn.com
-nnqimage.futunn.com
-dedog-server.futunn.com
-courseimg.futunn.com
-pubimg.futunn.com
-record.futunn.com
-plb.futunn.com
-liveimg.futunn.com
-postimg.futunn.com
-sdauth.futufin.com
-collect.futufin.com
-invest.futufin.com
-consultfthk.futufin.com
-consultfthk.futufin.com
-ir.futuholdings.com
-futu.link
-futunn.com
-futuhn.com
-futu.com
-futu1.com
-futu2.com
-futu3.com
-futu4.com
-futu5.com
-futu6.com
-futu7.com
-futu8.com
-futu9.com
-futuinc.com
-futuniuniu.com
-futu.cn
-futufin.com
-futuhk.com
-futuhk2.com
-futuholdings.com
-futuesop.com
-futubull.cn
-futuchain.com
-moomoo.com
-qcloud.com
-myqcloud.com
-appsflyersdk.com
-msftncsi.com
-app-analytics-services.com
-futustatic.com
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+	"api.futunn.com",
+	"conf.futunn.com",
+	"update1.futunn.com",
+	"softwaredownload.futunn.com",
+	"passport.futunn.com",
+	"static.futunn.com",
+	"newsfile.futunn.com",
+	"news.futunn.com",
+	"dedog-report.futunn.com",
+	"sdauth.futunn.com",
+	"avatar.futunn.com",
+	"collect.futunn.com",
+	"q.futunn.com",
+	"editor.futunn.com",
+	"emoticon.futunn.com",
+	"cdnquote.futunn.com",
+	"stock-resource.futunn.com",
+	"stock-reward.futunn.com",
+	"nnqimage.futunn.com",
+	"dedog-server.futunn.com",
+	"courseimg.futunn.com",
+	"pubimg.futunn.com",
+	"record.futunn.com",
+	"plb.futunn.com",
+	"liveimg.futunn.com",
+	"postimg.futunn.com",
+	"sdauth.futufin.com",
+	"collect.futufin.com",
+	"invest.futufin.com",
+	"consultfthk.futufin.com",
+	"consultfthk.futufin.com",
+	"ir.futuholdings.com",
+	"futu.link",
+	"futunn.com",
+	"futuhn.com",
+	"futu.com",
+	"futu1.com",
+	"futu2.com",
+	"futu3.com",
+	"futu4.com",
+	"futu5.com",
+	"futu6.com",
+	"futu7.com",
+	"futu8.com",
+	"futu9.com",
+	"futuinc.com",
+	"futuniuniu.com",
+	"futu.cn",
+	"futufin.com",
+	"futuhk.com",
+	"futuhk2.com",
+	"futuholdings.com",
+	"futuesop.com",
+	"futubull.cn",
+	"futuchain.com",
+	"moomoo.com",
+	"qcloud.com",
+	"myqcloud.com",
+	"appsflyersdk.com",
+	"msftncsi.com",
+	"app-analytics-services.com",
+	"futustatic.com"
+      ]
+    }
+  ]
+}
