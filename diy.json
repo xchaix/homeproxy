@@ -3,7 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
-	"a1010.buzz"
+	"a1010.buzz",
+		  "claw.cloud",
+		  "nube.sh"
      ],
 	"ip_cidr": [
 	"205.198.88.240/32",
